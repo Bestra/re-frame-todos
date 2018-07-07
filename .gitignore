@@ -1,0 +1,5 @@
+.nrepl-port
+.shadow-cljs/
+yarn-error.log
+node_modules/
+public/js/
